@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" preserveAspectRatio="xMidYMid meet">
+  <rect width="100%" height="100%" fill="#071229"/>
+  <rect x="80" y="80" width="1040" height="560" rx="20" fill="#1e293b"/>
+  <rect x="120" y="140" width="960" height="420" rx="12" fill="#0ea5a5"/>
+  <rect x="160" y="190" width="840" height="60" rx="8" fill="#072033"/>
+  <g fill="#9be7ff">
+    <rect x="200" y="270" width="140" height="18" rx="6"/>
+    <rect x="200" y="300" width="820" height="16" rx="6"/>
+    <rect x="200" y="330" width="700" height="16" rx="6"/>
+  </g>
+  <circle cx="600" cy="560" r="36" fill="#0ea5a5"/>
+  <text x="600" y="568" text-anchor="middle" font-size="24" fill="#071229" font-family="Arial, Helvetica">Preview</text>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" preserveAspectRatio="xMidYMid meet">
+  <rect width="100%" height="100%" fill="#0b1020"/>
+  <g transform="translate(80,120)">
+    <rect width="640" height="760" rx="20" fill="#0ea5a5"/>
+    <rect x="40" y="50" width="560" height="40" rx="8" fill="#022c40"/>
+    <g fill="#022c40" opacity="0.95">
+      <rect x="40" y="120" width="560" height="40" rx="8"/>
+      <rect x="40" y="180" width="400" height="32" rx="8"/>
+      <rect x="40" y="230" width="520" height="32" rx="8"/>
+    </g>
+    <text x="320" y="640" text-anchor="middle" font-size="28" fill="#022c40" font-family="Arial, Helvetica">Code & Content</text>
+  </g>
+</svg>
